@@ -1,0 +1,11 @@
+sentence_transformers
+langchain-huggingface
+langchain_pinecone
+python-dotenv
+langchain
+yfinance
+requests
+openai
+flask
+groq
+bs4
